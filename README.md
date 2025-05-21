@@ -15,8 +15,6 @@ https://cgeguizabal.github.io/Testimonials/
 
 ## ⚙️ Technologies Used
 
-- React
-- Vite (for fast development)
 - CSS Grid for layout and styling
 
 ---
